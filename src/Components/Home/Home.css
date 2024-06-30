@@ -1,0 +1,93 @@
+.hero {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.hero .box {
+    width: 90%;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 25px;
+    background-color: #d9d9d9;
+}
+
+.hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.hero button {
+    padding: 5px 30px;
+    background-color: #686868;
+    border-radius: 5px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    max-width: 1000px;
+    margin: 0 auto;
+    font-size: 16px;
+    color: #333;
+    font-weight: 600;
+
+}
+
+.numbers {
+    text-align: center;
+    padding: 40px 20px 200px;
+    margin-bottom: 200px;
+    background-color: #d9d9d9;
+    position: relative;
+}
+
+.numbers h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+    font-weight: bolder;
+    color: #030303;
+}
+
+.numbers-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    position: absolute;
+    bottom: -50px;
+    left: 9%;
+    color: #030303;
+}
+
+.numbers-grid i {
+    font-size: 70px;
+    color: #030303;
+    margin: 20px 0 20px;
+}
+
+.number-item {
+    background-color: #bebebe;
+    padding: 20px;
+    border: 1px solid #ddd;
+    width: 250px;
+    text-align: center;
+}
+
+.contacts-sec button {
+    background-color: #666;
+}
+
+.location-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #e0e0e0;
+    /* border-radius: 10px; */
+    height: 100%;
+}
+
+.location-icon {
+    font-size: 50px;
+    color: #000;
+}
