@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HospitalWebsite/static/css/main.ff8562c5.css",
+    "main.js": "/HospitalWebsite/static/js/main.c01aad1c.js",
+    "static/js/453.244779e2.chunk.js": "/HospitalWebsite/static/js/453.244779e2.chunk.js",
+    "static/media/fa-solid-900.ttf": "/HospitalWebsite/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/fa-brands-400.ttf": "/HospitalWebsite/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
+    "static/media/fa-solid-900.woff2": "/HospitalWebsite/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/fa-brands-400.woff2": "/HospitalWebsite/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/fa-regular-400.ttf": "/HospitalWebsite/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/fa-regular-400.woff2": "/HospitalWebsite/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/fa-v4compatibility.ttf": "/HospitalWebsite/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/fa-v4compatibility.woff2": "/HospitalWebsite/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
+    "index.html": "/HospitalWebsite/index.html",
+    "main.ff8562c5.css.map": "/HospitalWebsite/static/css/main.ff8562c5.css.map",
+    "main.c01aad1c.js.map": "/HospitalWebsite/static/js/main.c01aad1c.js.map",
+    "453.244779e2.chunk.js.map": "/HospitalWebsite/static/js/453.244779e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff8562c5.css",
+    "static/js/main.c01aad1c.js"
+  ]
+}
